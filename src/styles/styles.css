@@ -1,0 +1,70 @@
+
+
+.right_pane {
+    -fx-background-image: url('../../../../resources/SweetBG.jpg');
+    -fx-background-size: cover;
+}
+
+.btn_main_play_style {
+    -fx-background-image: url('../../../../resources/Bbtnplay.png');
+    -fx-background-radius: 15em;
+    -fx-min-width: 135px;
+    -fx-min-height: 135px;
+    -fx-max-width: 140px;
+    -fx-max-height: 140px;
+    -fx-focus-color: transparent;
+    -fx-faint-focus-color: transparent;
+    -fx-background-repeat: no-repeat;
+}
+
+
+.btn_main_pause_style {
+    -fx-background-image: url('../../../../resources/BtnPause.png');
+    -fx-background-radius: 15em;
+    -fx-min-width: 135px;
+    -fx-min-height: 135px;
+    -fx-max-width: 140px;
+    -fx-max-height: 140px;
+    -fx-focus-color: transparent;
+    -fx-faint-focus-color: transparent;
+    -fx-background-repeat: no-repeat;
+}
+
+.btn_stop_style {
+    -fx-background-image: url('../../../../resources/BtnStop.png');
+    -fx-background-radius: 5em;
+    -fx-min-width: 88px;
+    -fx-min-height: 88px;
+    -fx-max-width: 88px;
+    -fx-max-height: 88px;
+    -fx-focus-color: transparent;
+    -fx-faint-focus-color: transparent;
+    -fx-background-repeat: no-repeat;
+}
+
+.btn_import_style {
+    -fx-background-image: url('../../../../resources/BtnImport.png');
+    -fx-min-width: 45px;
+    -fx-min-height: 45px;
+    -fx-max-width: 45px;
+    -fx-max-height: 45px;
+    -fx-focus-color: transparent;
+    -fx-faint-focus-color: transparent;
+    -fx-background-repeat: no-repeat;
+}
+
+.right_pane_font {
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-font-size: 100px;
+}
+
+.left_pane_font {
+    -fx-text-fill: "#DDDDDD";
+    -fx-font-size: 17px;
+}
+
+.left_pane {
+    -fx-background-image: url('../../../../resources/images.jpg');
+    -fx-background-size: cover;
+}
